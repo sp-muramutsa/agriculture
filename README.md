@@ -1,8 +1,6 @@
-Here’s a professional README for your **"Sowing Success: How Machine Learning Helps Farmers Select the Best Crops"** project, following the exact structure and style of your provided DVD project:
-
 ---
 
-# 🌾 Sowing Success: Crop Recommendation via Soil Metrics
+# 🌾 Analyzing Feature Importance in Multi-class Classification: Crop Recommendation via Soil Metrics
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![numpy](https://img.shields.io/badge/numpy-1.24.3-yellowgreen)
