@@ -1,6 +1,6 @@
 ---
 
-# 🌾 Analyzing Feature Importance in Multi-class Classification: Crop Recommendation via Soil Metrics
+# Analyzing Feature Importance in Multi-class Classification: Crop Recommendation via Soil Metrics
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![numpy](https://img.shields.io/badge/numpy-1.24.3-yellowgreen)
