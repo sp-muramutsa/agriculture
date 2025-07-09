@@ -11,7 +11,7 @@
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ---
-
+![]https://cdn11.bigcommerce.com/s-jl3t5tg/product_images/uploaded_images/rwanda7.jpg)
 ## 📖 Project Overview
 
 This project applies **Machine Learning**, specifically **multi-class classification**, to predict the most suitable crop for a field based on soil metrics, helping farmers make informed decisions that maximize yield.
